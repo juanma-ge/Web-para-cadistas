@@ -10,4 +10,4 @@ Web hecha por y para cadistas con la función de conocer más sobre el club.
 
 [Enlace a página del club](https://www.cadizcf.md)
 
-[Regresar al archivo principal](Posibles-traspasos.md)
+[Regresar al archivo principal](Posiblestraspasos.md)
