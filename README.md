@@ -7,5 +7,5 @@ Web hecha por y para cadistas con la función de conocer más sobre el club.
 - Resultados
 ...
 
-  
-[Enlace a otro archivo](archivo2.md)
+
+[Enlace a página del club](https://www.cadizcf.md)
